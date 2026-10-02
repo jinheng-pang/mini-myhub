@@ -1,0 +1,6 @@
+@myhub_wepapi_HostAddress = http://localhost:5119
+
+GET {{myhub_wepapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
