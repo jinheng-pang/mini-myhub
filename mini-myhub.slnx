@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="myhub-backend/myhub-backend.csproj" />
   <Project Path="myhub-webapi/myhub-webapi.csproj" />
 </Solution>

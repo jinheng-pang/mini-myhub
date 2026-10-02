@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("myhub-webapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3511c81a71516ff485c2ffbbc7348f98b937125")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0af1eec7d8eaecbc532d77aaabc7cea4851e658c")]
 [assembly: System.Reflection.AssemblyProductAttribute("myhub-webapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("myhub-webapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
